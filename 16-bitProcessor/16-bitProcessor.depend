@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609366766 source:c:\users\20114\desktop\c code\8-bitprocessor\16-bitprocessor\main.c
+	<stdio.h>
+	<stdlib.h>
+
